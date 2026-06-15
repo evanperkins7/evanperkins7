@@ -21,4 +21,5 @@ Building software that solves real-world problems through automation, cloud tech
 
 📧 [emanperkins2004@gmail.com](mailto:emanperkins2004@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/evan-perkins-b93a70289/
+🌐 Portfolio: https://evan-perkins.com
