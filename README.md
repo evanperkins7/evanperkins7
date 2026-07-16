@@ -7,7 +7,7 @@ Building software that solves real-world problems through automation, cloud tech
 ## Currently
 
 * Pursuing a Master's degree in Computer Science at OU
-* Working as a Computer Science Intern at Innospec
+* Working as a Software Developer at Innospec
 * Building applications with Azure, Python, PostgreSQL, and Microsoft Power Platform
 * Interested in Software Engineering, Cloud Development, and Data Engineering
 
