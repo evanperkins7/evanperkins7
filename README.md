@@ -13,7 +13,7 @@ Building software that solves real-world problems through automation, cloud tech
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL, C++
+**Languages:** Python, Java, JavaScript, SQL
 
 **Technologies:** Azure, PostgreSQL, React, Next.js, Power Apps, Power BI, Git
 
