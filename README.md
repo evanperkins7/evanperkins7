@@ -1,6 +1,6 @@
 # Evan Perkins
 
-Software Developer at Innospec and accelerated M.S. Computer Science candidate at the University of Oklahoma. I build full-stack, cloud, and data systems that turn slow manual work into reliable production workflows.
+Software Developer at Innospec and accelerated M.S. Computer Science candidate at the University of Oklahoma. I work on full-stack, cloud, and data systems that optimize time and efficiency in the oilfield.
 
 I completed my B.S. in Computer Science in May 2026 and expect to complete my M.S. in May 2027. I am open to 2027 new-grad software engineering opportunities and relocation across the United States.
 
@@ -8,7 +8,6 @@ I completed my B.S. in Computer Science in May 2026 and expect to complete my M.
 
 - Shipped a chemical-delivery planning platform with Next.js, Python, PostgreSQL, and Azure.
 - Reduced route-planning time from 8 hours to 20 seconds across more than 1,100 customer wells.
-- Built a Google OR-Tools optimizer that doubled gallons delivered per mile in observed production use.
 - Automated internal reporting workflows, cutting report preparation time by 95%, and trained 35+ employees and engineering leaders.
 
 ## Selected projects
