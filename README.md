@@ -1,26 +1,31 @@
 # Evan Perkins
 
-M.S. Computer Science Student at the University of Oklahoma
+Software Developer at Innospec and accelerated M.S. Computer Science candidate at the University of Oklahoma. I build full-stack, cloud, and data systems that turn slow manual work into reliable production workflows.
 
-Building software that solves real-world problems through automation, cloud technologies, and data-driven solutions.
+I completed my B.S. in Computer Science in May 2026 and expect to complete my M.S. in May 2027. I am open to 2027 new-grad software engineering opportunities and relocation across the United States.
 
-## Currently
+## Production impact
 
-* Pursuing a Master's degree in Computer Science at OU
-* Working as a Software Developer at Innospec
-* Building applications with Azure, Python, PostgreSQL, and Microsoft Power Platform
-* Interested in Software Engineering, Cloud Development, and Data Engineering
+- Shipped a chemical-delivery planning platform with Next.js, Python, PostgreSQL, and Azure.
+- Reduced route-planning time from 8 hours to 20 seconds across more than 1,100 customer wells.
+- Built a Google OR-Tools optimizer that doubled gallons delivered per mile in observed production use.
+- Automated internal reporting workflows, cutting report preparation time by 95%, and trained 35+ employees and engineering leaders.
 
-## Tech Stack
+## Selected projects
 
-**Languages:** Python, Java, JavaScript, SQL
+- [NFL Weekly Game Predictor](https://github.com/evanperkins7/NFLPredictor) — leakage-aware forecasting with chronological evaluation, calibration analysis, automated weekly artifacts, and a Streamlit dashboard.
+- [Autonomous Driving Test Coverage](https://github.com/evanperkins7/openpilot-test-coverage) — University of Oklahoma testing project based on a fork of comma.ai openpilot; adds state-transition, UI, replay-coverage, and Hypothesis-based tests.
+- [Backdoor Attack Security Analysis](https://github.com/evanperkins7/backdoor-attack-security-analysis) — computer-security coursework exploring poisoned image data and adversarial patches with TensorFlow/Keras and OpenCV.
 
-**Technologies:** Azure, PostgreSQL, React, Next.js, Power Apps, Power BI, Git
+## Technical toolkit
 
-## Contact
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Application development:** React, Next.js, Node.js, FastAPI
+- **Cloud and data:** Azure, PostgreSQL, GitHub Actions
+- **Testing and optimization:** pytest, Hypothesis, Google OR-Tools
 
-📧 [emanperkins2004@gmail.com](mailto:emanperkins2004@gmail.com)
+## Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/evan-perkins-b93a70289/
-
-🌐 Portfolio: https://evan-perkins.com
+- [Portfolio](https://evan-perkins.com)
+- [LinkedIn](https://www.linkedin.com/in/evan-perkins-b93a70289/)
+- [evan.n.perkins-1@ou.edu](mailto:evan.n.perkins-1@ou.edu)
